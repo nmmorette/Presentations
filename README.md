@@ -1,1 +1,1 @@
-Repo com todas as apresentações realizadas em eventos. 
+Repository with all presentations delivered at events.
